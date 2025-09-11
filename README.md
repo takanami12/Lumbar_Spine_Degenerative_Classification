@@ -1,6 +1,6 @@
 # Lumbar_Spine_Degenerative_Classification
 
-This is the solution for the RSNA 2024 Lumbar Spine Degenerative Classification competition. For more details, [discussion](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/discussion/539453).
+This is the solution for the RSNA 2024 Lumbar Spine Degenerative Classification competition.
 
 ## Environment
 kaggle: GPU T4 x2
