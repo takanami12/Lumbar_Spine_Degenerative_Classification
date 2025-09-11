@@ -13,8 +13,8 @@ from typing import Optional
 import numpy as np
 from utils.labels import ID_TO_CONDITION, ID_TO_LEVEL
 
-import source.datasets as datasets
-from source.datasets import build_transforms, DatasetPhase, Mixup
+import stage1.datasets as datasets
+from stage1.datasets import build_transforms, DatasetPhase, Mixup
 
 from center_classifier_attention import RSNA2024AttentionNet
 
